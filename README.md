@@ -1,3 +1,11 @@
+# Radix UI Nextjs
+
+[Radix UI](https://www.radix-ui.com/) Themes es una biblioteca de componentes UI para React que permite crear interfaces interactivas y que lucen muy bien bajo un mismo tema, al mismo estilo de proyectos como Material UI o Tailwind UI. De hecho Radix UI tambien usa las clases de TailwindCSS y pueden combinarse con las propiedades de los componentes que provee.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,4 +40,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# radix-ui-demo
